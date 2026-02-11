@@ -1,0 +1,8 @@
+
+{
+  "name": "Sohan's Hospital Management",
+  "description": "An enterprise-grade, role-based hospital management system for OPD, Pathology, Billing, and Staff Management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
